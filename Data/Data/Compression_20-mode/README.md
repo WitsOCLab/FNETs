@@ -1,0 +1,3 @@
+Data used for training and testing in the paper _Fourier Feature Networks for High Fidelity Prediction of Perturbed Optical Fibre_
+
+The `.hdf5` files presented here contain reformatted data from the paper (_Learning and avoiding disorder in multimode fibers_)[https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021060] by M. W. Matthès, Y. Bromberg, J. de Rosny and S. M. Popoff. The original data is available on Github under a standard MIT license: https://github.com/wavefrontshaping/article_MMF_disorder

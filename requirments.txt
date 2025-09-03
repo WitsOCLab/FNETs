@@ -1,0 +1,10 @@
+# ML
+torchmetrics # Lots of useful loss and evaluation functions
+torch>=2.5.1
+
+# Utilities 
+h5py
+toml
+notebook
+scipy
+tqdm
