@@ -49,5 +49,7 @@ model = torch.load(<path-to-weights> weights_only=False)
 > 
 
 ## Additional Source Code 
-Source code for a Fourier feature pytorch module, neural networks models and other useful custom pytorch code can be found in the custom (`oil`)[oil] module. Feel free to use this code as you wish! We hope you find it helpful (please cite our paper if you do).
+Source code for a Fourier feature pytorch module, neural networks models and other useful custom pytorch code can be found in the custom [`oil`](oil) module. Feel free to use this code as you wish! We hope you find it helpful (please cite our paper if you do).
+
+
 The oil module contains some scripts we wrote to make pytorch run a bit smoother and be a bit simpler to use. The version included in this repository is incomplete and is provided (without warranty) under the this repo’s general MIT license.
