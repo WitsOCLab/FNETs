@@ -8,3 +8,4 @@ toml
 notebook
 scipy
 tqdm
+matplotlib
