@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "High-Fidelity Prediction of Perturbed Optical Fields using Fourier Feature Networks"
+version: "v2"
+date-released: "2025-09-03"
+authors:
+  - family-names: "Jandrell"
+    given-names: "Joshua R."
+    affiliation: "School of Electrical and Information Engineering, University of the Witwatersrand"
+  - family-names: "Cox"
+    given-names: "Mitchell A."
+    affiliation: "School of Electrical and Information Engineering, University of the Witwatersrand"
+affiliations:
+  - name: "University of the Witwatersrand, Johannesburg"
+doi: "10.48550/arXiv.2508.19751"
+url: "https://arxiv.org/abs/2508.19751"
+repository-code: "https://github.com/WitsOCLab/FNETs"
+keywords:
+  - optical fields
+  - Fourier feature networks
+  - machine learning
+  - perturbation modelling
+  - multimode fibre
+license: "MIT"  
