@@ -27,7 +27,7 @@ Please cite our associated paper (available on ArXiV):
 >
 
 ## ⚡Quick Demo
-For a brief demonstration of how to load model weights and plots of how well model predictions match data see [`plot_fits.ipynb`](plot_fits.ipynb)
+For a brief demonstration of how to load model weights and plots of how well model predictions match data see [`plot_fits.ipynb`](plot_fits.ipynb) or [`plot_fits_tm.ipynb`](plot_fits_tm.ipynb) to see predictions for models trained on the complex transmission matrix.
 
 ## Pre-Trained Model Weights 
 Weights for pretrained pytorch models can be found in the [`Data/Weights`](Data/Weights) directory.
